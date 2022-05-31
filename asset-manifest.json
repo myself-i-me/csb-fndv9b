@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://myself-i-me.github.io/csb-fndv9b/static/css/main.7c002eb1.chunk.css",
+    "main.js": "https://myself-i-me.github.io/csb-fndv9b/static/js/main.9956c95d.chunk.js",
+    "main.js.map": "https://myself-i-me.github.io/csb-fndv9b/static/js/main.9956c95d.chunk.js.map",
+    "runtime-main.js": "https://myself-i-me.github.io/csb-fndv9b/static/js/runtime-main.8be39d0a.js",
+    "runtime-main.js.map": "https://myself-i-me.github.io/csb-fndv9b/static/js/runtime-main.8be39d0a.js.map",
+    "static/js/2.f78f5aef.chunk.js": "https://myself-i-me.github.io/csb-fndv9b/static/js/2.f78f5aef.chunk.js",
+    "static/js/2.f78f5aef.chunk.js.map": "https://myself-i-me.github.io/csb-fndv9b/static/js/2.f78f5aef.chunk.js.map",
+    "index.html": "https://myself-i-me.github.io/csb-fndv9b/index.html",
+    "static/css/main.7c002eb1.chunk.css.map": "https://myself-i-me.github.io/csb-fndv9b/static/css/main.7c002eb1.chunk.css.map",
+    "static/js/2.f78f5aef.chunk.js.LICENSE.txt": "https://myself-i-me.github.io/csb-fndv9b/static/js/2.f78f5aef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8be39d0a.js",
+    "static/js/2.f78f5aef.chunk.js",
+    "static/css/main.7c002eb1.chunk.css",
+    "static/js/main.9956c95d.chunk.js"
+  ]
+}
